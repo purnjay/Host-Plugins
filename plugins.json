@@ -65,7 +65,14 @@
 			"name": "TCHangRail",  
 			"desc": "&eAddon for TrainCarts\n&aAllows you to create cable cars!",  
 			"jarName": "TCHangRail-1.11.2-v1.jar",  
-			"configName": "BKCommonLib",
+			"configName": "TCHangRail",
+			"freePlugin": "true"
+	        },
+		{
+			"name": "SignLink",  
+			"desc": "&eAddon for TrainCarts\n&aAllows you to create dynamic signs!",  
+			"jarName": "SignLink-1.11.2-v1.jar",  
+			"configName": "SignLink",
 			"freePlugin": "true"
 	        },
 		{
