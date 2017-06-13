@@ -51,13 +51,13 @@
 		{
 			"name": "TrainCarts",  
 			"desc": "&bLink minecarts, create stations and make railway systems!\n&cWARNING: May use high amounts of RAM!\n&cRequires &nBKCommonLib&c to be installed.",  
-			"jarName": "TrainCarts-1.11.2-v1.jar",  
+			"jarName": "TrainCarts-1.12.jar",  
 			"configName": "TrainCarts"  
 	        },
 		{
 			"name": "BKCommonLib",  
 			"desc": "&eDependency for TrainCarts",  
-			"jarName": "BKCommonLib-1.11.2-v1.jar",  
+			"jarName": "BKCommonLib-1.12-v1.jar",  
 			"configName": "BKCommonLib",
 			"freePlugin": "true"
 	        },
