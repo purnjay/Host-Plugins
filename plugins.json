@@ -500,6 +500,12 @@
 			"desc": "Allows your users with permissions\nto change their name/chat color!",
 			"jarName": "ChatColor.jar",
 			"configName": "ChatColor+"
-		}
+		},
+		 {
+			"name": "HideandSeek",  
+			"desc": "Hide and Seek",  
+			"jarName": "HideAndSeek0.3.jar",  
+			"configName": "HideAndSeek"  
+	         }
 	]
 }
